@@ -1,7 +1,7 @@
-+ # REQUIREMENTS
-+ ## INTRODUCTION
+ # REQUIREMENTS
+ ## INTRODUCTION
 + The mini-project “Employee Presence Monitoring System (EPMS) to monitor effective working time of an employee in C” is a console application using the C programming language.Apart from details such as Emp_ID, Age, address, contact number etc., each employee will have a special counter.  First time an employee enters into the office, the counter is set to 1.  From then onwards, each time an employee leaves the office premises for tea break or lunch break, and enters back this id is incremented.  You can figure out that when this id is odd on a day, he is in the office premises and even when he is out.  EPMS also records the number of breaks and total duration of the break in a day.
-+ ## RESEARCH
+ ## RESEARCH
 + this project aims to simplify the task of mainiaining records of the Employee Presence Monitoring System.  To develop an well-designed database to store employee information.  The objective of this project is to provide a comprehensive approach towards the management of employee information.
 + ## FEATURES AND TIMELINE
 + This function prints the information of how many employees came today, did a particular employee come today, how often did an employee come today.  which allows us to add, update, delete and search record of an employee working in an organization.
