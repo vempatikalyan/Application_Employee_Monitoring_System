@@ -42,8 +42,8 @@
 | HLR2 |  Name  | Enter their __Names__ | Implemented next
 | HLR3 | ID | Enter their __ID__  | Implemented next
 | HLR4 | Age    | Enter their __Age__  | Implemented next
-| HLR5 | Address | Enter their _Address_   | Implemented next
-| HLR6 | Number | Enter their _Numbers_   | Implemented next
+| HLR5 | Address | Enter their __Address__   | Implemented next
+| HLR6 | Number | Enter their __Numbers__   | Implemented next
 ### Low Level Requirements:
 | ID | EMP Details | Description | Status |
 |------|------| ------| ------|
