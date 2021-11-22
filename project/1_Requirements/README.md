@@ -37,14 +37,15 @@
 + Businesses use different monitoring methods to measure productivity, track attendance, assess behavior, ensure security, and collect proof of hours worked.
 + # DETAILS REQUIREMENTS:
  ### High Level Requirements:
-| ID | Player ID | Player Discription | Status |
+| ID | EMP Details | Description | Status |
 |------|------| ------| ------|
-| HLR2 |  Name  | Player enter their __Names__ | Implemented next
-| HLR3 | Gender | Player enter their __Gender__  | Implemented next
-| HLR4 | Age    | Player enter their __Age__  | Implemented next
-| HLR5 | Score | Player enter the __Elligibility_   | Implemented next
+| HLR2 |  Name  | Enter their __Names__ | Implemented next
+| HLR3 | ID | Enter their __ID__  | Implemented next
+| HLR4 | Age    | Enter their __Age__  | Implemented next
+| HLR5 | Address | Enter their __Address_   | Implemented next
+| HLR6 | Number | Enter their __Numbers_   | Implemented next
 ### Low Level Requirements:
-| ID | Players ID | Players Discription | Status |
+| ID | EMP Details | Description | Status |
 |------|------| ------| ------|
 | LLR1 | Win | Player will be happy | Implemented next
 | LLR2 | Loss | Player will be disappointed | Implemented next
