@@ -1,5 +1,5 @@
 SRC = main.c\
-src/Football.c
+src/EPMS.c
 INC = inc
 all.exe : $(SRC) 
 	gcc $^ -I$(INC) -o $@
