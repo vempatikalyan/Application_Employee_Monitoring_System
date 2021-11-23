@@ -47,7 +47,7 @@
 ### Low Level Requirements:
 | ID | EMP Details | Description | Status |
 |------|------| ------| ------|
-| LLR1 | Win | Player will be happy | Implemented next
-| LLR2 | Loss | Player will be disappointed | Implemented next
-| LLR3 | calculations | Score calculation | Implemented next
-| LLR4| Player  Final View | finally Player has to enjoy the game  | Implemented next
+| LLR1 | Enter into office | Employee when enter into the office | Implemented next
+| LLR2 | Came Today | Particular Came today or NOT | Implemented next
+| LLR3 | No.Of EMP | Total number of employee's are there in office | Implemented next
+| LLR4| Range of ID's | Total number of employee's ID's Range| Implemented next
