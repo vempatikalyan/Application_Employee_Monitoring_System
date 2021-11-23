@@ -9,7 +9,7 @@ struct emp
     int time[100];
     int age;
     char phone[10];
-};
+}x[100];
 void main()
 {
     int i=0,n,z,a=0;
